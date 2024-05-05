@@ -35,6 +35,6 @@ Task 4) The book has been assigned an ISBN number. Add a property 'ISBN' with a 
 ******************************************************************/
 
 book.pageCount = 1096;
-book.Isbn = 978 - 1491952023;
+book.Isbn = "978 - 1491952023";
 book.Year = 2021;
 console.log(book);
